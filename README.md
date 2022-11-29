@@ -1,5 +1,9 @@
 ### Employee Management Application
 
+Simple CRUD app to learn and understand GraphQL
+
+#
+
 ##### Tools
 
 - Nextjs/Typescript
